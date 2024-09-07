@@ -1,0 +1,64 @@
+.crocodilecontainerdiv {
+    border: solid 1pt lightgray;
+    width: 320px;
+    box-shadow: 5px 10px lightgray;
+    background-color: darkgreen;
+}
+.crocodileimage {
+    width: 300px;  
+    padding: 10px; 
+
+}
+.crocodilefact {
+    font-style: italic;
+    font-size: 10pt;
+    color: white;
+
+}
+.crocodileinfo {
+    border: solid 1pt lightgray;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+}
+.leopardcontainerdiv {
+    border: solid 1pt lightgray;
+    width: 320px;
+    box-shadow: 5px 10px lightgray;
+    background-color: darkred;
+}
+.leopardimage {
+    width: 300px;  
+    padding: 10px; 
+
+}
+.leopardfact {
+    font-style: italic;
+    font-size: 10pt;
+    color: white;
+}
+.leopardinfo {
+    border: solid 1pt lightgray;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+}
+body {
+    display: flex;
+    flex-wrap: flex;
+}
+h3 {
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 20pt;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+ul {
+    list-style-type: none;
+    padding-left: 0;
+
+}
+span {
+    font-weight: bold;
+}
